@@ -13,8 +13,7 @@ function App() {
         alt = "logo" / >
         <
         p >
-        Edit < code > src / App.js < /code> and save to reload.
-        Bye There! & nbsp; 123 skhdgfkjhsgjhsjhdgf!!!!
+        I was changed on the feature branch!
         <
         /p> <
         a className = "App-link"
